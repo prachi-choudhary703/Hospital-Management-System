@@ -1318,3 +1318,5 @@ b6=Button(sgframe,width=10,bd=5,font=('arial',10,'bold'),bg='royalblue',fg='whit
 b7=Button(sgframe,width=10,bd=5,font=('arial',10,'bold'),bg='royalblue',fg='white',text='Previous page',command=sgprevious).grid(row=8,column=0,padx=5,pady=5,ipady=5,ipadx=5)
 
 win.mainloop()
+
+# Project maintained by Prachi
